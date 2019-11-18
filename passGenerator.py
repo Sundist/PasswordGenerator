@@ -2,7 +2,7 @@
 import string
 import random
 def randomString(stringLength):
-    """Generate a random string of 5 charcters"""
+    """Generate a random string of 15 charcters"""
     letters = string.ascii_letters
     numbers = string.digits
     imges = string.punctuation
